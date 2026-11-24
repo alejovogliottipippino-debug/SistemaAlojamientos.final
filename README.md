@@ -1,5 +1,3 @@
-# SistemaAlojamientos.final
-trabajo integrador programacion 2do año alejo vogliotti
 # SistemaAlojamientos
 
 Aplicación de consola desarrollada en Java 17 para administrar alojamientos, clientes y reservas. Los datos se guardan en memoria mediante `ArrayList`; al cerrar el programa se pierden.
